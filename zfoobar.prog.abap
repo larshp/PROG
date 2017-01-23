@@ -2,6 +2,7 @@ REPORT zfoobar.
 
 DATA: gv_ok_code LIKE sy-ucomm.
 
+
 START-OF-SELECTION.
   CALL SCREEN 2000.
 
